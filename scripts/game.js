@@ -57,8 +57,8 @@ console.log(window.innerHeight);
 /*Afasta a camera para visualizacao do personagem*/
 camera.position.z = 40;//window.innerWidth/2;
 
-plane.position.x = 20;
-plane.position.y = 20;
+plane.position.x = 34;
+plane.position.y = 11;
 
 
 /*funcoes do teclado*/
